@@ -479,7 +479,7 @@ ggsave(
 )
 ```
 
-#### Ray Pit Count
+#### Pit Count
 
 ```{r}
 #| label: pit-count-figs
