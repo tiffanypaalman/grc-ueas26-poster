@@ -7,4 +7,4 @@ Please contact Tiffany Paalman (tiffany.paalman@duke.edu) with questions and/or 
 
 Learn more about Tiffany's research here: https://linktr.ee/tpaalman01
 
-<img width="3456" height="4608" alt="final_poster_36x48" src="https://github.com/user-attachments/assets/6581eae7-3945-4a5a-8436-71659668e4eb" />
+# <img width="3456" height="4608" alt="final_poster_36x48" src="https://github.com/user-attachments/assets/6581eae7-3945-4a5a-8436-71659668e4eb" />
